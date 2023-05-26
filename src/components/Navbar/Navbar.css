@@ -1,0 +1,14 @@
+nav {
+	height: 70px;
+	width: 100%;
+	background: #ffffff;
+	display: flex;
+	align-items: center;
+	box-shadow: 0 3px 7.5px 0px rgba(0, 0, 0, 0.1);
+	border-radius: 1rem 1rem 0rem 0rem;
+}
+
+nav > img {
+	width: 5rem;
+	padding-left: 1.5rem;
+}
